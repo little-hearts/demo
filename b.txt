@@ -1,0 +1,4 @@
+this is b.txt
+2
+3
+4
